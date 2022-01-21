@@ -592,7 +592,7 @@ Sandbox_Map = "Játék Térkép",
 Sandbox_AllowMiniMap = "Minitérkép engedélyezése",
 Sandbox_AllowWorldMap = "Világtérkép engedélyezése",
 Sandbox_MapAllKnown = "Minden ismert a kezdésnél",
-Sandbox_AllClothesUnlocked = "Minden ruha kinyitva",
+Sandbox_AllClothesUnlocked = "Minden ruha kinyitása",
 
     -- v41.65
 	-- Átnézve 2022.01.09
